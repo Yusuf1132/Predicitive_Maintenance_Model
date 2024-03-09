@@ -2,7 +2,7 @@
 This is predictive maintenance project that entails developing a model to predict faults before it occurs so as to carry out maintenance actions to avoid the occurrence of downtimes, delay and high repair cost.
 
 
-**About Dataset**
+**About Dataset:**
 This synthetic dataset is modeled after an existing milling machine and consists of 10 000 data points from a stored as rows with 14 features in columns;
 
 UID: unique identifier ranging from 1 to 10000
